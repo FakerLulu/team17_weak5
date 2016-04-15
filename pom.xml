@@ -10,7 +10,6 @@
 
   <name>bill</name>
   <url>http://maven.apache.org</url>
-  	<profiles>
    <profiles>
     <profile>
       <activation>
