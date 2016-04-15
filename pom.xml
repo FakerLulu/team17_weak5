@@ -35,9 +35,7 @@
     	<sonar.language>java</sonar.language>
     	<argLine>-Xmx128m</argLine>
 	</properties>	
-	
-</project>
-<dependencies>
+	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
@@ -52,3 +50,4 @@
   		</dependency>
  </dependencies>
 </project>
+
